@@ -65,14 +65,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇸 Espanha x 🇦🇹 Áustria
+SUMMARY:🇪🇸 Espanha 3-0 🇦🇹 Áustria
 DTSTART:20260702T190000Z
 DTEND:20260702T210000Z
-DTSTAMP:20260629T055351Z
+DTSTAMP:20260702T213351Z
 UID:fifa-wc-2026-b92877596178@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Dezesseis-avos de Final\nEstádio: Los Angeles (Inglewood)
+DESCRIPTION:Dezesseis-avos de Final\nEstádio: Los Angeles (Inglewood)\nIn
+ tervalo: 1-0\nFinal: 3-0
 LOCATION:Los Angeles (Inglewood)
 STATUS:CONFIRMED
 TRANSP:OPAQUE
