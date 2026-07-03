@@ -65,14 +65,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇦🇺 Australie vs 🇪🇬 Égypte
+SUMMARY:🇦🇺 Australie 1[2]-[4]1 🇪🇬 Égypte
 DTSTART:20260703T180000Z
 DTEND:20260703T200000Z
-DTSTAMP:20260629T055351Z
+DTSTAMP:20260703T213259Z
 UID:fifa-wc-2026-e0865c6090ac@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:1/16ème de finale\nStade: Dallas (Arlington)
+DESCRIPTION:1/16ème de finale\nStade: Dallas (Arlington)\nMi-temps: 0-1\n
+ Fin du match: 1-1\nProlongation: 1-1\nTirs au but: 2-4
 LOCATION:Dallas (Arlington)
 STATUS:CONFIRMED
 TRANSP:OPAQUE
