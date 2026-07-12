@@ -105,14 +105,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇳🇴 Noruega vs 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra
+SUMMARY:🇳🇴 Noruega 1-2 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra
 DTSTART:20260711T210000Z
 DTEND:20260711T230000Z
-DTSTAMP:20260706T130031Z
+DTSTAMP:20260712T001320Z
 UID:fifa-wc-2026-fbe7a024f3e0@worldcup-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Cuartos de Final\nEstadio: Miami (Miami Gardens)
+DESCRIPTION:Cuartos de Final\nEstadio: Miami (Miami Gardens)\nDescanso: 1-
+ 1\nFinal: 1-1\nPrórroga: 1-2
 LOCATION:Miami (Miami Gardens)
 STATUS:CONFIRMED
 TRANSP:OPAQUE
