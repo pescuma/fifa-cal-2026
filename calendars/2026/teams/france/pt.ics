@@ -141,14 +141,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇫🇷 França x 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra
+SUMMARY:🇫🇷 França 4-6 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra
 DTSTART:20260718T210000Z
 DTEND:20260718T230000Z
-DTSTAMP:20260715T211601Z
+DTSTAMP:20260718T231202Z
 UID:fifa-wc-2026-aea8dc458d5d@worldcup-calendar
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Disputa pelo Terceiro Lugar\nEstádio: Miami (Miami Gardens)
+DESCRIPTION:Disputa pelo Terceiro Lugar\nEstádio: Miami (Miami Gardens)\n
+ Intervalo: 0-4\nFinal: 4-6
 LOCATION:Miami (Miami Gardens)
 STATUS:CONFIRMED
 TRANSP:OPAQUE

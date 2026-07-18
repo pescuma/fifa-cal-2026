@@ -1945,14 +1945,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇫🇷 France vs 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Angleterre
+SUMMARY:🇫🇷 France 4-6 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Angleterre
 DTSTART:20260718T210000Z
 DTEND:20260718T230000Z
-DTSTAMP:20260715T211601Z
+DTSTAMP:20260718T231202Z
 UID:fifa-wc-2026-aea8dc458d5d@worldcup-calendar
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:FIFA World Cup 2026,Football
-DESCRIPTION:Match pour la 3ème place\nStade: Miami (Miami Gardens)
+DESCRIPTION:Match pour la 3ème place\nStade: Miami (Miami Gardens)\nMi-te
+ mps: 0-4\nFin du match: 4-6
 LOCATION:Miami (Miami Gardens)
 STATUS:CONFIRMED
 TRANSP:OPAQUE
